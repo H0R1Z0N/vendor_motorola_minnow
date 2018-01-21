@@ -1,0 +1,7 @@
+Acoustic Model - am.bin
+--------------
+ma_og_okgoogle_en_US_sfs_delivery04_am_ma36.bin
+
+Grammar Model - lm.bin
+-------------
+ma_og_okgoogle_en_US_sfs_delivery04_search_20_ma36.bin
